@@ -1,4 +1,4 @@
-# Potato-Crop-Disease-Detection
+# Crop-Disease-Detection
 
 1. CNN
 2. Keras DataImageGenerator
