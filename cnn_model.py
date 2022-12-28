@@ -7,8 +7,8 @@ from keras.layers import Dense
 from tensorflow.keras import models, layers 
 from tensorflow.python.keras.layers import Dense
 from keras.models import Sequential
-from keras.layers import Dense, Activation, Dropout, Flatten, MaxPooling2D 
 from keras.layers.convolutional import Conv2D 
+from keras.layers import Dense, Activation, Dropout, Flatten, MaxPooling2D 
 
 BATCH_SIZE = 32
 IMAGE_SIZE = 256
