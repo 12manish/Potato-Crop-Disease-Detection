@@ -7,3 +7,4 @@
 5. MobileNet
 6. Inception V3
 7. ResNet
+8. SqueezeNet
