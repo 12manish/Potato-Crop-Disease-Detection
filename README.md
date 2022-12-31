@@ -8,3 +8,4 @@
 6. Inception V3
 7. ResNet
 8. SqueezeNet
+![image](https://user-images.githubusercontent.com/101546087/210132099-195ea77d-b382-4420-88fc-1d0d08b0ef10.png)
